@@ -1,0 +1,34 @@
+Opa, boa noite! Hoje é dia 14/03!
+Sei que está tarde de noite mas vim aqui passar missões para vcs. "Missões?Como assim?", simples, vai ser algumas atividades para fazer em prol de agilizar o desenvolvimento do TCC.
+Bem, vamos começar:
+
+Squad Design(Arthur, Ana, Clayton e Eduardo)
+-Desenvolvam a aparência do personagem baseado no personagem de Bleach Ywhach(o bigodudo).Lembrando, é
+pra refazer o personagem baseado na aparência do bigodudo acima, porém com os aspectos que já foram
+debatidos(Alemão, General de Guerra, etc).
+OBS.: Faça isso tudo no papel antes de transformamos em pixel art. Peço que esse desenho seja
+entregue a nós na próxima aula de TCC;
+-Desenvolva um nome baseado no que já foi discutido sobre o personagem principal(caso você queira
+ser mais detalhista e dar os motivos do porque esse nome foi escolhido, vá em frente);
+-Pensem em um nome para o jogo;
+-Aprofunde mais a história(nessa parte me refiro no Squad Design faça um aprofundamento da história baseado nas suas ideias. As ideias mais votadas e escolhidas por nós será a definitiva e
+será uma parte de mais responsabilidade sua desenvolver mais e mais, com a ajuda de todos é claro);
+
+Trio Programação(Rafael, Igor e Passos)
+-Escolha algum dos três acima para ser o responsável por fazer o site de download do nosso jogo;
+-Estudar mais as plataformas para a programação do jogo(Gamemaker e outros que existem por ai);
+-Estudar mais sobre a parte de áudio(essa parte fica para os dois que ficarem com o jogo em si, enquanto o outro foca em fazer o site/html do jogo.
+
+Documentação(Rafael e Igor)
+-Escolher quais plataformas serão trabalhadas;
+-Pensar em como fazer o relatório;
+-Estudar mais sobre Banco de Dados e SQL;
+-Mais(chamar a Rita caso tenhamos duvidas);
+
+Testes(Todos)
+-Nada a ser testado por enquanto.
+
+Essa mensagem será um forma de nos organizarmos para que possamos trabalhar com êxito. Vocês podem
+contar comigo e eu conto com vocês.
+Boa Noite.
+
